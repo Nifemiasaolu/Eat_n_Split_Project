@@ -1,4 +1,4 @@
 # Eat and Split Project with React
 
 Built an application which you could split the bill with your friend.
-Either of you on can pay for the bill, regardless of whoever, one would owe one.
+Either of you can pay for the bill, regardless of whoever, one would owe one.
