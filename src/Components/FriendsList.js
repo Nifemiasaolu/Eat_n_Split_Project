@@ -40,5 +40,3 @@ function Friend({ friend, onSelection, selectedFriend }) {
     </li>
   );
 }
-
-// //
