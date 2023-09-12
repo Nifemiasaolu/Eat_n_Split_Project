@@ -51,3 +51,5 @@ export default function FormSplitBill({ selectedFriend, onSplitBill }) {
     </form>
   );
 }
+
+// ///
